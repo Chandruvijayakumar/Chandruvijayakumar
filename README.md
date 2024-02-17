@@ -1,5 +1,5 @@
-<img align='right' alt='coding' width='' height='' src='https://4kwallpapers.com/images/walls/thumbs_3t/13629.png'>
-<h1 align="center">✌️CHANDRU VIJAYAKUMAR</h1>
+<img align='right' alt='coding' width='950' height='300'  src='https://4kwallpapers.com/images/walls/thumbs_3t/13629.png'>
+<h1 align="center">Hi 👋, I'm CHANDRU VIJAYAKUMAR</h1>
 <h3 align="center">Passionate Full Stack Developer specializing in the MERN stack, with expertise in React.js, Node.js, Express.js, and MongoDB. Proven track record of delivering scalable and responsive web applications, ensuring optimal user experiences. A collaborative team player adept at version control with Git, I thrive on turning innovative ideas into functional code. Let's connect and build your next digital solution together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandruvijayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="chandruvijayakumar" /> </p>
