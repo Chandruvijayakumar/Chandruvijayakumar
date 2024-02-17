@@ -1,4 +1,4 @@
-<img align='right' alt='coding' width='1000' height='300' src='https://res.cloudinary.com/practicaldev/image/fetch/s--_YcPare0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif'>
+<img align='right' alt='coding' width='1000' height='300' src='https://4kwallpapers.com/images/walls/thumbs_3t/5947.png'>
 <h1 align="center">✌️CHANDRU VIJAYAKUMAR</h1>
 <h3 align="center">Passionate Full Stack Developer specializing in the MERN stack, with expertise in React.js, Node.js, Express.js, and MongoDB. Proven track record of delivering scalable and responsive web applications, ensuring optimal user experiences. A collaborative team player adept at version control with Git, I thrive on turning innovative ideas into functional code. Let's connect and build your next digital solution together!</h3>
 
