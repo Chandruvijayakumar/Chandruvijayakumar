@@ -1,5 +1,5 @@
 <img align='right' alt='coding' width='950' height='300'  src='https://4kwallpapers.com/images/walls/thumbs_3t/13629.png'>
-<h1 align="center">Hi 👋, I'm CHANDRU VIJAYAKUMAR</h1>
+<h1 align="center">👋, I'm CHANDRU VIJAYAKUMAR</h1>
 <h3 align="center">Passionate Full Stack Developer specializing in the MERN stack, with expertise in React.js, Node.js, Express.js, and MongoDB. Proven track record of delivering scalable and responsive web applications, ensuring optimal user experiences. A collaborative team player adept at version control with Git, I thrive on turning innovative ideas into functional code. Let's connect and build your next digital solution together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandruvijayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="chandruvijayakumar" /> </p>
@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.chandruvijayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.chandruvijayakumar" height="30" width="40" /></a>
+<a href="https://dev.to/dev." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev." height="30" width="40" /></a>
 <a href="https://twitter.com/chandruvij25136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandruvij25136" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandru vijayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandru vijayakumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandru-vijayakumar-7a5a9a1b8/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandru-vijayakumar-7a5a9a1b8/?originalsubdomain=in" height="30" width="40" /></a>
 <a href="https://fb.com/chandru chadnru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandru chadnru" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_h_a_w_k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_h_a_w_k_" height="30" width="40" /></a>
 <a href="https://medium.com/@chandru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandru" height="30" width="40" /></a>
@@ -44,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandruvijayakumar&show_icons=true&locale=en" alt="chandruvijayakumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandruvijayakumar&" alt="chandruvijayakumar" /></p>
+
+
